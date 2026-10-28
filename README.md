@@ -11,3 +11,14 @@ OmniBoard is a planned project management board for organizing work and tracking
 OmniBoard aims to bring projects and their tasks into a simple visual workspace. Users will be able to break projects into manageable tasks, update task details, and move work through a clear workflow.
 
 The proposed default workflow is **To Do → In Progress → Done**.
+
+## Planned Features
+
+- **Project management:** Create, edit, and delete projects.
+- **Task management:** Add tasks with a title and description, then edit or delete them as needed.
+- **Board view:** Organize each project's tasks into status columns.
+- **Status updates:** Move tasks between To Do, In Progress, and Done.
+- **Priorities and due dates:** Identify urgent work and upcoming deadlines.
+- **Search and filtering:** Find tasks by title, status, or priority.
+- **Saved progress:** Keep projects and tasks available between sessions.
+- **Responsive interface:** Make the board usable across desktop and mobile screens.
