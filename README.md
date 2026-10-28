@@ -22,3 +22,12 @@ The proposed default workflow is **To Do → In Progress → Done**.
 - **Search and filtering:** Find tasks by title, status, or priority.
 - **Saved progress:** Keep projects and tasks available between sessions.
 - **Responsive interface:** Make the board usable across desktop and mobile screens.
+
+## Proposed User Flow
+
+1. Create a project.
+2. Add tasks and their details.
+3. Set priorities and due dates where needed.
+4. Update task statuses as work progresses.
+5. Review the board to identify remaining work.
+
