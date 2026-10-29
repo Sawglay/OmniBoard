@@ -66,3 +66,11 @@ The setup guide will cover prerequisites, installation, any required configurati
 - [ ] Display tasks in status columns.
 - [ ] Support task status changes.
 - [ ] Persist projects and tasks.
+
+### Phase 3 — Improve Usability
+
+- [ ] Add task priorities and due dates.
+- [ ] Add search and filtering.
+- [ ] Refine responsive layouts and keyboard accessibility.
+- [ ] Add input validation and helpful empty states.
+- [ ] Check core workflows and resolve bugs.
