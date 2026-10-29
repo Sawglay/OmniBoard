@@ -49,3 +49,11 @@ Setup instructions will be added once the application has been initialized and i
 
 The setup guide will cover prerequisites, installation, any required configuration, and commands for running the project locally.
 
+## Development Roadmap
+
+### Phase 1 — Plan and Design
+
+- [ ] Confirm the minimum viable product scope.
+- [ ] Choose the technology stack and storage approach.
+- [ ] Sketch the project list, board, and task editor.
+- [ ] Define the project and task data models.
