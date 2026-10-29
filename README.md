@@ -43,3 +43,9 @@ The technology stack has not been finalized.
 | Backend, if needed | To be decided |
 | Deployment | To be selected |
 
+## Getting Started
+
+Setup instructions will be added once the application has been initialized and its dependencies are available.
+
+The setup guide will cover prerequisites, installation, any required configuration, and commands for running the project locally.
+
