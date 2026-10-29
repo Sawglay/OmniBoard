@@ -31,3 +31,15 @@ The proposed default workflow is **To Do → In Progress → Done**.
 4. Update task statuses as work progresses.
 5. Review the board to identify remaining work.
 
+## Technology Stack
+
+The technology stack has not been finalized.
+
+| Area | Status |
+| --- | --- |
+| Frontend | To be selected |
+| Styling | To be selected |
+| Data storage | To be selected |
+| Backend, if needed | To be decided |
+| Deployment | To be selected |
+
