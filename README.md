@@ -57,3 +57,12 @@ The setup guide will cover prerequisites, installation, any required configurati
 - [ ] Choose the technology stack and storage approach.
 - [ ] Sketch the project list, board, and task editor.
 - [ ] Define the project and task data models.
+
+### Phase 2 — Build the Core Board
+
+- [ ] Initialize the application.
+- [ ] Implement project creation, editing, and deletion.
+- [ ] Implement task creation, editing, and deletion.
+- [ ] Display tasks in status columns.
+- [ ] Support task status changes.
+- [ ] Persist projects and tasks.
