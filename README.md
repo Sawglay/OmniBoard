@@ -82,3 +82,13 @@ The setup guide will cover prerequisites, installation, any required configurati
 - [ ] Select a license and add a LICENSE file.
 - [ ] Deploy a demo and add its link here.
 
+## Possible Future Enhancements
+
+These ideas are outside the proposed first version:
+
+- Drag-and-drop task movement.
+- Custom board columns.
+- User accounts and shared workspaces.
+- Task comments and activity history.
+- Deadline reminders.
+- Project progress summaries.
