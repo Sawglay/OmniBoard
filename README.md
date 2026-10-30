@@ -74,3 +74,11 @@ The setup guide will cover prerequisites, installation, any required configurati
 - [ ] Refine responsive layouts and keyboard accessibility.
 - [ ] Add input validation and helpful empty states.
 - [ ] Check core workflows and resolve bugs.
+
+### Phase 4 — Prepare the First Release
+
+- [ ] Add screenshots of the working application.
+- [ ] Document installation and usage.
+- [ ] Select a license and add a LICENSE file.
+- [ ] Deploy a demo and add its link here.
+
