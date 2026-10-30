@@ -92,3 +92,19 @@ These ideas are outside the proposed first version:
 - Task comments and activity history.
 - Deadline reminders.
 - Project progress summaries.
+
+## Demo and Screenshots
+
+A live demo and screenshots will be added when a working version is available.
+
+## Feedback
+
+Suggestions and bug reports are welcome through GitHub Issues once the repository is published. For bug reports, include the steps to reproduce the problem, the expected result, and the actual result.
+
+## Author
+
+**Hlaing Min Han (G Lay)**
+
+## License
+
+A license has not yet been selected. License details will be added before the first release.
